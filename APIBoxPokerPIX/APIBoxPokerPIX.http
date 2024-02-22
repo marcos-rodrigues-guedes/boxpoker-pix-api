@@ -1,0 +1,6 @@
+@APIBoxPokerPIX_HostAddress = http://localhost:5103
+
+GET {{APIBoxPokerPIX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
